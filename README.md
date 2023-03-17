@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 -->
 - 😄 My name is Tony.
-- 🎂 on 02/08/1999 ( I'm 22 ) 
-- :man_student: I’m studying Industrial Engineering at Politehnica University Bucharest.
-- 👨‍💻 Into: CyberSecurity, Engineering, IT&C, Automotive, Machine Learing, A.I and Networking.
+- 🎂 on 02/08/1999 ( I'm 23 ) 
+- :man_student: I’m studying Economic Engineering and Business Management at Politehnica University Bucharest.
+- 👨‍💻 Into: DevOps & Engineering
 
 - 💬 Ask me about anything you desire.
-- 📫 How to reach me: https://www.instagram.com/tony.gheorghe/
+- 📫 How to reach me: https://www.tonygheorghe.ro
