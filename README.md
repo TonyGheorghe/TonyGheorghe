@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 -->
 - 😄 My name is Tony.
-- 🎂 on 02/08/1999 ( I'm 25 ) 
-- :man_student: I’m studying Economic Engineering and Business Management at Politehnica University Bucharest. As of 2024 I am an student for PhD in Industrial Engineering
+- 🎂 on 02/08/1999 ( I'm 26 ) 
+- :man_student: As of 2024 I am an student for PhD in Industrial Engineering
 - 👨‍💻 Into: DevOps & Engineering
 
 - 💬 Ask me about anything you desire.
-- 📫 How to reach me: https://www.tonygheorghe.ro
+- 📫 How to reach me: https://www.tonygheorghe.ro ( if not deprecated already due to inactivity and no reach :laugh: )
